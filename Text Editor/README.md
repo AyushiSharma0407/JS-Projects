@@ -1,6 +1,6 @@
 <b>Text Editor Project</b></br>
 A website which gives options to write text then edit it</br>
-All colours can be chosen in the font and highlight colour option</i>.</br>
+<i>All colours can be chosen in the font and highlight colour option</i>.</br>
 Fonts can be chosen from the given set of 7 fonts.</br>
 All the necessary files of the project are present in this folder.</br>
 
