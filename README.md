@@ -6,4 +6,5 @@ This repository contains projects created in JavaScript in consecutive days.</br
 ✔Day1 = Creating a website to generate pixel art grids and creation of pixel art</br>
 ✔Day2 = Text Editor</br>
 ✔Day3 = Password Generator</br>
+✔Day4 = QR Code Generator</br>
 
